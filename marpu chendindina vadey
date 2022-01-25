@@ -1,0 +1,27 @@
+python is a case sensetive programming language. Variable is should not srart with integer. And should not give space between the variables. In strings we does not change the variable , but we can change the whole string. 
+  Camel case = expept the first word of string remaining are all in capital letters .
+  Pascal case= all are in capital letters.
+  Using the underscore between the words is Snake case.
+   A variable is a box to assign a values. A array is used to store a multiple values.
+    
+   
+   List :- it is used to store multiple values . 
+          Append is used to add elements or strings at the last of the list. 
+          Extend is used to add multiple strings at the last of the list. 
+          Insert is used to insert values using index values in middle of the list.
+          Pop is used to delete the strings using index values .
+  
+  set :- set is a un ordered type so it does not have index values.And its unchanged.
+         And it dosent not allow duplicate values.
+         And it can store different data types. 
+ Finally list , tuple and set are multi stored data types.
+ 
+ Dictionary :- it is a ordered varaible and it stored paired elements.
+               We can add elements in middle of the program .
+               In this we use uptate method to update the elements.
+               len method use to measure the length of dictionary.
+               Use clear method to empty the dictionary.
+               
+               
+               
+             If statements :-
